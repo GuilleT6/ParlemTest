@@ -1,4 +1,4 @@
-# 🧪 ParlemTest - Prova Tècnica
+## 🧪 ParlemTest - Prova Tècnica
 
 Aquesta solució correspon a la part **back-end** de la prova tècnica proposada per Parlem. L’objectiu principal ha estat desenvolupar una **Web API** seguint bones pràctiques de desenvolupament, arquitectura neta i separació de responsabilitats.
 
@@ -12,7 +12,7 @@ Aquesta solució correspon a la part **back-end** de la prova tècnica proposada
 - **xUnit** per a tests unitaris.
   
 
-  ## 🧠 Principis Aplicats
+## 🧠 Principis Aplicats
 
 - **Arquitectura Neta (Clean Architecture)**: Separació clara entre presentació, aplicació, domini i infraestructura.
 - **Injecció de dependències**: Serveis i repositoris injectats per facilitar proves i escalabilitat.
