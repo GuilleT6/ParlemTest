@@ -1,0 +1,23 @@
+[
+  {
+    "productName": "FIBRA 1000 ADAMO",
+    "productTypeName": "ftth",
+    "numeracioTerminal": "933933933",
+    "soldAt": "2019-01-09 14:26:17",
+    "customerId": "11111"
+  },
+  {
+    "productName": "FIBRA 500 MOVISTAR",
+    "productTypeName": "ftth",
+    "numeracioTerminal": "934934934",
+    "soldAt": "2020-05-15 10:15:30",
+    "customerId": "11112"
+  },
+  {
+    "productName": "FIBRA 300 ORANGE",
+    "productTypeName": "ftth",
+    "numeracioTerminal": "935935935",
+    "soldAt": "2021-08-20 16:45:00",
+    "customerId": "11112"
+  }
+]

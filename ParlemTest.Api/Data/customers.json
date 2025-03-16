@@ -1,0 +1,26 @@
+[
+  {
+    "docType": "nif",
+    "docNum": "11223344E",
+    "email": "it@parlem.com",
+    "givenName": "Enriqueta",
+    "familyName1": "Parlem",
+    "phone": "668668668"
+  },
+  {
+    "docType": "dni",
+    "docNum": "22334455T",
+    "email": "maria.lopez@parlem.com",
+    "givenName": "María",
+    "familyName1": "López",
+    "phone": "669669669"
+  },
+  {
+    "docType": "nie",
+    "docNum": "33445566X",
+    "email": "juan.perez@parlem.com",
+    "givenName": "Juan",
+    "familyName1": "Pérez",
+    "phone": "670670670"
+  }
+]
